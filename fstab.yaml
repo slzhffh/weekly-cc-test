@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/slzhffh/weekly-cc-test/
+    type: markup
+
+folders:
+  /products/: /products/default
